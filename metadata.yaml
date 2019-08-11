@@ -1,0 +1,32 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-M-M-Mangasarian_60013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mangasarian, M. M. (Mangasar Mugurditch)
+    alias: Mangasarian, Mangasar Mugurditch
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '1951'
+    url: http://www.gutenberg.org/2009/agents/1951
+    wikipedia: http://en.wikipedia.org/wiki/M._M._Mangasarian
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcc 'BL'
+- !lcsh 'Indexes'
+- GITenberg
+title: Index of the Project Gutenberg Works of M. M. Mangasarian
+url: http://www.gutenberg.org/ebooks/60013
